@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Data Input</title>
+    <style>
+        body {
+            background-color: #e3d5d5; /* Set your desired background color here */
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 50%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff; /* Set a background color for the form container */
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            background-color: #007bff; /* Set a background color for the submit button */
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>placements data </h1>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required><br>
+
+            <label for="stream">Stream:</label>
+            <input type="text" id="stream" name="stream" required><br>
+
+            <label for="cgpa">CGPA:</label>
+            <input type="number" id="cgpa" name="cgpa" step="0.01" required><br>
+
+            <label for="internships">Internships:</label>
+            <input type="text" id="internships" name="internships" required><br>
+
+            <label for="backlogs">Backlogs:</label>
+            <input type="number" id="backlogs" name="backlogs" required><br>
+
+            <label for="company">Any Company Placed:</label>
+            <input type="text" id="company" name="company" required><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
+
