@@ -17,7 +17,7 @@
 ## Screenshots:
 ### Home page:
 User have to fill this form.
-![[Screenshot (99)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/61855759-9501-4d6e-977f-72fcb0951737](https://github.com/smartinternz02/SBSPS-Challenge-10095-1691067161/blob/main/website%20screenshot/Screenshot%202023-09-04%20210438.png))]
+![[Screenshot (99)(https://github.com/Avi8010/Placement_Predictor/assets/124759114/61855759-9501-4d6e-977f-72fcb0951737](https://github.com/smartinternz02/SBSPS-Challenge-10095-1691067161/blob/main/website%20screenshot/Screenshot%202023-09-04%20210438.png))]
 
 
 
